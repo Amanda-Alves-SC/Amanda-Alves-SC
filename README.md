@@ -1,4 +1,7 @@
-### Olá! Eu sou a Amanda Alves 👋
+<div>
+  <h2 style="color: white; font-size: 2em;">Olá! Eu sou a Amanda Alves 👋</h2>
+</div>
+
 
 ## LinkedIn
 
